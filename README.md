@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me 🤖
+## About Me
 
 From the early stages of my career, I've been drawn to the power of automation. My journey started with front-end testing using Selenium and Docker, and I've since immersed myself in platform engineering. With each step, I've sought to master tools like Terraform, Azure, AWS, Kubernetes, and Go, constantly evolving and refining my expertise.
 
@@ -21,7 +21,7 @@ I transitioned from an SRE role to the platforms team, honing my skills as a ver
 
 My current mission? Focusing on platform engineering and enhancing the developer experience by simplifying application lifecycle management.
 
-## Personal Projects 🎨
+## Personal Projects
 
 - **AzureApp Operator**: [A Kubernetes Operator to manage Azure apps with Terraform and Go](https://github.com/rdalbuquerque/azureapp-operator)
 - **Availability Checker**: [Manage availability checks for multiple types of technologies with Go](https://github.com/rdalbuquerque/availability-checker)
@@ -30,7 +30,7 @@ My current mission? Focusing on platform engineering and enhancing the developer
 - **Valheim Server**: [With Terraform and AWS ECS ASG (EC2)](https://github.com/rdalbuquerque/valheim-server-asg-ec2)
 - **Odin Discord Bot**: [A bot written in Python to manage Valheim server state](https://github.com/rdalbuquerque/odin-discord-bot)
 
-## Open Source Contributions 💡
+## Open Source Contributions
 
 - **Merged PRs**:
   - [PR#893 for Terraform Provider Azure DevOps - bug fix](https://github.com/microsoft/terraform-provider-azuredevops/pull/893)
@@ -38,13 +38,13 @@ My current mission? Focusing on platform engineering and enhancing the developer
 - **Ongoing PR**:
   - [PR#865 for Terraform Provider Azure DevOps - quality of life enhancement](https://github.com/microsoft/terraform-provider-azuredevops/pull/865)
 
-## Certifications 📜
+## Certifications
 - **[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/06729e57-66b5-431c-be2a-41cb57525e72?source=linked_in_profile)**
 - **[Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/RodolfoAlbuquerque-0829/B06F15A05E8234A3?sharingId)**
 - **[Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/RodolfoAlbuquerque-0829/F93B6A656A33BC9?sharingId)**
 
 
-## Let's Connect! 🌐
+## Find me at
 
 - **LinkedIn**: [https://www.linkedin.com/in/rodolfodalbuquerque/]
 - **Twitter**: [https://x.com/roddalbuquerque]
