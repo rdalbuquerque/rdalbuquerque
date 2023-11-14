@@ -35,8 +35,9 @@ My current mission? Focusing on platform engineering and enhancing the developer
 - **Merged PRs**:
   - [PR#893 for Terraform Provider Azure DevOps - bug fix](https://github.com/microsoft/terraform-provider-azuredevops/pull/893)
   - [PR#806 for Terraform Provider Azure DevOps - new resource](https://github.com/microsoft/terraform-provider-azuredevops/pull/806)
-- **Ongoing PR**:
   - [PR#865 for Terraform Provider Azure DevOps - quality of life enhancement](https://github.com/microsoft/terraform-provider-azuredevops/pull/865)
+- **Ongoing PR**:
+  - [PR#893 for Terraform Provider Azure DevOps - new resource](https://github.com/microsoft/terraform-provider-azuredevops/pull/914)
 
 ## Certifications
 - **[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/06729e57-66b5-431c-be2a-41cb57525e72?source=linked_in_profile)**
