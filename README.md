@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 From the early stages of my career, I've been drawn to the power of automation. My journey started with front-end testing using Selenium and Docker, and I've since immersed myself in platform engineering. With each step, I've sought to master tools like Terraform, Azure, AWS, Kubernetes, and Go, constantly evolving and refining my expertise.
 
-I transitioned from an SRE role to the platforms team, honing my skills as a versatile tech generalist. My adaptability and self-learning capabilities have allowed me to navigate a vast array of tools, systems, and services with ease.
-
-My current mission? Focusing on platform engineering and enhancing the developer experience by simplifying application lifecycle management.
+I transitioned from an SRE role to the platforms team, honing my skills as a versatile tech generalist. My adaptability and self-learning capabilities have allowed me to navigate a vast array of tools, systems, and services.
 
 ## Personal Projects
 - **Celify**: [CLI to run CEL based validations agaisnt yaml or json (written with Go and cobra)](https://github.com/rdalbuquerque/celify)
