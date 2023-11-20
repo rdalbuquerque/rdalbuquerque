@@ -22,7 +22,7 @@ I transitioned from an SRE role to the platforms team, honing my skills as a ver
 My current mission? Focusing on platform engineering and enhancing the developer experience by simplifying application lifecycle management.
 
 ## Personal Projects
-
+- **Celify**: [CLI to run CEL based validations agaisnt yaml or json (written with Go and cobra)](https://github.com/rdalbuquerque/celify)
 - **AzureApp Operator**: [A Kubernetes Operator to manage Azure apps with Terraform and Go](https://github.com/rdalbuquerque/azureapp-operator)
 - **Availability Checker**: [Manage availability checks for multiple types of technologies with Go](https://github.com/rdalbuquerque/availability-checker)
 - **Ingress Fixer Webhook**: [Exploring Kubernetes webhook capabilities](https://github.com/rdalbuquerque/ingress-fixer-webhook)
