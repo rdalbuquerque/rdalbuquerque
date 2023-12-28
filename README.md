@@ -30,12 +30,23 @@ I transitioned from an SRE role to the platforms team, honing my skills as a ver
 
 ## Open Source Contributions
 
-- **Merged PRs**:
-  - [PR#893 for Terraform Provider Azure DevOps - bug fix](https://github.com/microsoft/terraform-provider-azuredevops/pull/893)
-  - [PR#806 for Terraform Provider Azure DevOps - new resource](https://github.com/microsoft/terraform-provider-azuredevops/pull/806)
-  - [PR#865 for Terraform Provider Azure DevOps - quality of life enhancement](https://github.com/microsoft/terraform-provider-azuredevops/pull/865)
-- **Ongoing PR**:
-  - [PR#893 for Terraform Provider Azure DevOps - new resource](https://github.com/microsoft/terraform-provider-azuredevops/pull/914)
+### Merged PRs
+
+| PR | Description | Affected Resource |
+|----|--------------|-------------------|
+| [PR#806 for Terraform Provider Azure DevOps](https://github.com/microsoft/terraform-provider-azuredevops/pull/806) | New resource |  `azuredevops_check_required_template` |
+| [PR#893 for Terraform Provider Azure DevOps](https://github.com/microsoft/terraform-provider-azuredevops/pull/893) | Bug fix |  `azuredevops_build_folder_permissions` |
+| [PR#865 for Terraform Provider Azure DevOps](https://github.com/microsoft/terraform-provider-azuredevops/pull/865) | Quality of life |  `azuredevops_serviceendpoint_azurerm` |
+| [PR#914 for Terraform Provider Azure DevOps](https://github.com/microsoft/terraform-provider-azuredevops/pull/914) | New resource |  `azuredevops_servicehook_storage_queue_pipelines` |
+
+### Ongoing PR
+
+| PR | Description | Affected Resource |
+|----|-------------|-------------------|
+| [PR#939 for Terraform Provider Azure DevOps](https://github.com/microsoft/terraform-provider-azuredevops/pull/939) | Performance improvement | `azuredevops_users` |
+| [PR#935 for Terraform Provider Azure DevOps](https://github.com/microsoft/terraform-provider-azuredevops/pull/935) | New resource | `azuredevops_environment_resource_kubernetes` |
+
+  
 
 ## Certifications
 - **[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/06729e57-66b5-431c-be2a-41cb57525e72?source=linked_in_profile)**
