@@ -38,12 +38,12 @@ I transitioned from an SRE role to the platforms team, honing my skills as a ver
 | [PR#893 for Terraform Provider Azure DevOps](https://github.com/microsoft/terraform-provider-azuredevops/pull/893) | Bug fix |  `azuredevops_build_folder_permissions` |
 | [PR#865 for Terraform Provider Azure DevOps](https://github.com/microsoft/terraform-provider-azuredevops/pull/865) | Quality of life |  `azuredevops_serviceendpoint_azurerm` |
 | [PR#914 for Terraform Provider Azure DevOps](https://github.com/microsoft/terraform-provider-azuredevops/pull/914) | New resource |  `azuredevops_servicehook_storage_queue_pipelines` |
+| [PR#939 for Terraform Provider Azure DevOps](https://github.com/microsoft/terraform-provider-azuredevops/pull/939) | Performance improvement | `azuredevops_users` |
 
 ### Ongoing PR
 
 | PR | Description | Affected Resource |
 |----|-------------|-------------------|
-| [PR#939 for Terraform Provider Azure DevOps](https://github.com/microsoft/terraform-provider-azuredevops/pull/939) | Performance improvement | `azuredevops_users` |
 | [PR#935 for Terraform Provider Azure DevOps](https://github.com/microsoft/terraform-provider-azuredevops/pull/935) | New resource | `azuredevops_environment_resource_kubernetes` |
 
   
