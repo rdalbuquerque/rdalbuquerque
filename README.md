@@ -20,6 +20,7 @@ From the early stages of my career, I've been drawn to the power of automation. 
 I transitioned from an SRE role to the platforms team, honing my skills as a versatile tech generalist. My adaptability and self-learning capabilities have allowed me to navigate a vast array of tools, systems, and services.
 
 ## Personal Projects
+- **azdoext**: [A terminal UI, powered by bubbletea, to help streamline the process of commiting, pushing, creating PRs and following pipelines in Azure Devops](https://github.com/rdalbuquerque/azdoext)
 - **Celify**: [CLI to run CEL based validations agaisnt yaml or json (written with Go and cobra)](https://github.com/rdalbuquerque/celify)
 - **AzureApp Operator**: [A Kubernetes Operator to manage Azure apps with Terraform and Go](https://github.com/rdalbuquerque/azureapp-operator)
 - **Availability Checker**: [Manage availability checks for multiple types of technologies with Go](https://github.com/rdalbuquerque/availability-checker)
