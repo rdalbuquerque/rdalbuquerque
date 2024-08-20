@@ -45,6 +45,7 @@ I transitioned from an SRE role to the platforms team, honing my skills as a ver
 
 ## Certifications
 - **[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/06729e57-66b5-431c-be2a-41cb57525e72?source=linked_in_profile)**
+- **[Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/pt-br/RodolfoAlbuquerque-0829/70E6EC01594D4EE3?sharingId=267F64891A07492D)**
 - **[Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/RodolfoAlbuquerque-0829/B06F15A05E8234A3?sharingId)**
 - **[Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/RodolfoAlbuquerque-0829/F93B6A656A33BC9?sharingId)**
 
