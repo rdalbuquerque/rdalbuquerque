@@ -19,7 +19,7 @@ Always learning and playing catch up. Currently Kubernetes 1.32 Docs Shadow
 
 
 ## Personal Projects
-- **Valheim Server**: [Low cost and performant Valheim server with Terraform plus a serverless Go discord bot for management](https://github.com/rdalbuquerque/valheim-server)
+- **Valheim Server**: [Low cost and performant Valheim server with Terraform plus a serverless Go discord bot for server management](https://github.com/rdalbuquerque/valheim-server)
 - **azdoext**: [A terminal UI, powered by bubbletea, to enhance the DevEx on common git tasks and CI/CD monitoring](https://github.com/rdalbuquerque/azdoext)
 - **Celify**: [CLI to run CEL based validations agaisnt yaml or json (written with Go and cobra)](https://github.com/rdalbuquerque/celify)
 - **AzureApp Operator**: [A Kubernetes Operator to manage Azure apps with Terraform and Go](https://github.com/rdalbuquerque/azureapp-operator)
