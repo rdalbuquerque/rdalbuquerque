@@ -24,9 +24,7 @@ Always learning and playing catch up.
 - **AzureApp Operator**: [A Kubernetes Operator to manage Azure apps with Terraform and Go](https://github.com/rdalbuquerque/azureapp-operator)
 - **Availability Checker**: [Manage availability checks for multiple types of technologies with Go](https://github.com/rdalbuquerque/availability-checker)
 - **Ingress Fixer Webhook**: [Exploring Kubernetes webhook capabilities](https://github.com/rdalbuquerque/ingress-fixer-webhook)
-- **Valheim Server**: [With Terraform and AWS ECS Fargate](https://github.com/rdalbuquerque/valheim-server-fargate)
-- **Valheim Server**: [With Terraform and AWS ECS ASG (EC2)](https://github.com/rdalbuquerque/valheim-server-asg-ec2)
-- **Odin Discord Bot**: [A bot written in Python to manage Valheim server state](https://github.com/rdalbuquerque/odin-discord-bot)
+- **Valheim Server**: [Low cost and performant Valheim server with Terraform plus a serverless Go discord bot for management](https://github.com/rdalbuquerque/valheim-server)
 
 ## Open Source Contributions
 
