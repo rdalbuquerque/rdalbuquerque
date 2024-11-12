@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Always learning and playing catch up.
+Always learning and playing catch up. Currently Kubernetes 1.32 Docs Shador 
 
 
 ## Personal Projects
+- **Valheim Server**: [Low cost and performant Valheim server with Terraform plus a serverless Go discord bot for management](https://github.com/rdalbuquerque/valheim-server)
 - **azdoext**: [A terminal UI, powered by bubbletea, to enhance the DevEx on common git tasks and CI/CD monitoring](https://github.com/rdalbuquerque/azdoext)
 - **Celify**: [CLI to run CEL based validations agaisnt yaml or json (written with Go and cobra)](https://github.com/rdalbuquerque/celify)
 - **AzureApp Operator**: [A Kubernetes Operator to manage Azure apps with Terraform and Go](https://github.com/rdalbuquerque/azureapp-operator)
 - **Availability Checker**: [Manage availability checks for multiple types of technologies with Go](https://github.com/rdalbuquerque/availability-checker)
 - **Ingress Fixer Webhook**: [Exploring Kubernetes webhook capabilities](https://github.com/rdalbuquerque/ingress-fixer-webhook)
-- **Valheim Server**: [Low cost and performant Valheim server with Terraform plus a serverless Go discord bot for management](https://github.com/rdalbuquerque/valheim-server)
 
 ## Open Source Contributions
 
