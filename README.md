@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Always learning and playing catch up. Currently Kubernetes 1.32 Docs Shadow
+Always learning and playing catch up.
 
 
 ## Personal Projects
